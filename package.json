@@ -7,7 +7,11 @@
         "build": "webpack"
     },
     "keywords": ["webSocket", "微信小程序"],
-    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Char-set/wxWebSocket"
+    },
+    "author": "Char-set",
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.17.4",
